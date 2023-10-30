@@ -1,0 +1,68 @@
+{
+    "Teams": {
+        "Yellow": {
+            "Handling": 75,
+            "Dunking": 30,
+            "Shooting": 65,
+            "Stealing": 45,
+            "Blocking": 40,
+            "Rebounding": 45
+        },
+        "Red": {
+            "Handling": 50,
+            "Dunking": 75,
+            "Shooting": 25,
+            "Stealing": 25,
+            "Blocking": 60,
+            "Rebounding": 65
+        },
+        "Green": {
+            "Handling": 65,
+            "Dunking": 25,
+            "Shooting": 75,
+            "Stealing": 40,
+            "Blocking": 40,
+            "Rebounding": 55
+        },
+        "Pink": {
+            "Handling": 45,
+            "Dunking": 40,
+            "Shooting": 55,
+            "Stealing": 75,
+            "Blocking": 35,
+            "Rebounding": 50
+        },
+        "Orange": {
+            "Handling": 50,
+            "Dunking": 65,
+            "Shooting": 25,
+            "Stealing": 25,
+            "Blocking": 75,
+            "Rebounding": 60
+        },
+        "Blue": {
+            "Handling": 60,
+            "Dunking": 45,
+            "Shooting": 65,
+            "Stealing": 25,
+            "Blocking": 30,
+            "Rebounding": 75
+        },
+        "Black": {
+            "Handling": 70,
+            "Dunking": 70,
+            "Shooting": 70,
+            "Stealing": 30,
+            "Blocking": 30,
+            "Rebounding": 30
+        },
+        "White": {
+            "Handling": 35,
+            "Dunking": 35,
+            "Shooting": 20,
+            "Stealing": 75,
+            "Blocking": 75,
+            "Rebounding": 60
+        }
+    }
+}

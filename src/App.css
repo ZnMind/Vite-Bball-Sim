@@ -1,0 +1,45 @@
+body {
+  background-color: lightgray;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.box {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  border-bottom: 1px solid gray;
+  padding: 2em;
+  border-radius: 7.5px;
+}
+
+.record {
+  background-color: white;
+  height: 100%;
+  border-radius: 7.5px;
+  padding: 2em;
+  width: 150px;
+}
+
+.grid {
+  background-color: white;
+  margin-top: 1em;
+  border-radius: 7.5px;
+}
+
+.row {
+  display: flex;
+}
+
+p {
+  margin: 0.5em;
+}
